@@ -407,12 +407,10 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 56,Greater than 45,Male,Caucasian,0,-2.0,F,0,Low,1,0
 34,25 - 45,Male,Hispanic,4,-1.0,F,1,Low,1,1
 59,Greater than 45,Male,Caucasian,1,-2.0,F,1,Low,1,1
-35,25 - 45,Male,Asian,0,-1.0,F,0,Medium,6,0
 58,Greater than 45,Male,Hispanic,1,-11.0,F,0,Low,1,0
 29,25 - 45,Male,Hispanic,2,-26.0,M,0,Low,4,0
 24,Less than 25,Female,Caucasian,6,0.0,F,1,High,9,1
 21,Less than 25,Male,Caucasian,2,-1.0,M,1,High,9,1
-50,Greater than 45,Male,Asian,5,0.0,F,1,Medium,7,1
 26,25 - 45,Male,African-American,1,-1.0,F,0,Low,2,0
 30,25 - 45,Female,Caucasian,0,-1.0,M,0,Low,2,0
 29,25 - 45,Male,Caucasian,0,0.0,M,1,Low,4,1
@@ -578,7 +576,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 29,25 - 45,Male,Hispanic,7,-2.0,F,1,High,9,1
 23,Less than 25,Male,African-American,2,0.0,M,1,High,10,1
 27,25 - 45,Male,African-American,3,-1.0,F,0,Low,4,0
-21,Less than 25,Male,Asian,0,-1.0,F,1,Medium,6,1
 48,Greater than 45,Male,Caucasian,3,-3.0,F,1,Low,1,1
 31,25 - 45,Male,African-American,5,-1.0,F,0,Medium,7,0
 36,25 - 45,Male,African-American,4,-1.0,M,0,Medium,5,0
@@ -645,7 +642,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 23,Less than 25,Female,Other,0,-1.0,M,0,High,10,0
 20,Less than 25,Female,Caucasian,1,-1.0,F,1,High,8,1
 23,Less than 25,Female,African-American,0,-1.0,F,0,Low,2,0
-27,25 - 45,Male,Native American,3,0.0,M,0,Medium,7,0
 53,Greater than 45,Female,African-American,0,0.0,F,0,Low,1,0
 23,Less than 25,Female,African-American,0,-1.0,F,1,Medium,7,0
 26,25 - 45,Male,African-American,5,-1.0,F,1,Medium,7,1
@@ -986,7 +982,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 24,Less than 25,Male,African-American,0,-1.0,F,0,Medium,5,0
 20,Less than 25,Male,Hispanic,2,9.0,F,1,High,10,1
 28,25 - 45,Male,African-American,9,-1.0,F,1,High,8,1
-25,25 - 45,Male,Native American,7,0.0,F,1,High,9,0
 49,Greater than 45,Male,African-American,3,0.0,F,0,Low,2,0
 22,Less than 25,Female,Hispanic,0,0.0,F,0,Medium,6,0
 21,Less than 25,Male,African-American,0,-1.0,F,1,Low,3,1
@@ -998,7 +993,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 33,25 - 45,Female,Caucasian,2,-1.0,F,1,Medium,5,1
 25,25 - 45,Male,Other,1,-1.0,M,1,Low,4,1
 30,25 - 45,Male,Hispanic,0,-1.0,M,0,Low,1,0
-42,25 - 45,Male,Native American,0,-1.0,M,0,Low,2,0
 29,25 - 45,Female,Caucasian,11,-3.0,F,1,High,10,1
 32,25 - 45,Female,African-American,6,-1.0,F,1,Low,4,1
 24,Less than 25,Male,Other,5,-1.0,F,0,Medium,6,0
@@ -1008,7 +1002,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 38,25 - 45,Male,Hispanic,0,0.0,F,0,Low,1,0
 30,25 - 45,Female,Caucasian,0,0.0,F,0,Medium,5,0
 20,Less than 25,Male,African-American,0,-1.0,M,1,High,10,1
-24,Less than 25,Male,Asian,0,-1.0,F,0,Low,3,0
 31,25 - 45,Male,Caucasian,0,-1.0,F,0,Low,4,0
 37,25 - 45,Female,Caucasian,1,-25.0,M,0,Low,3,0
 43,25 - 45,Male,Hispanic,0,-4.0,M,1,Low,2,1
@@ -1093,9 +1086,7 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 44,25 - 45,Male,African-American,2,-1.0,F,0,Medium,5,0
 45,Greater than 45,Male,Caucasian,0,-1.0,M,0,Low,2,0
 30,25 - 45,Male,African-American,1,-1.0,F,0,Low,1,0
-38,25 - 45,Male,Asian,2,0.0,F,0,Low,1,0
 23,Less than 25,Male,Caucasian,6,-1.0,F,1,Medium,5,1
-46,Greater than 45,Male,Asian,0,-1.0,M,0,Low,1,0
 42,25 - 45,Male,African-American,0,-1.0,F,0,Low,1,0
 54,Greater than 45,Male,Caucasian,4,-1.0,M,0,Low,2,0
 47,Greater than 45,Male,African-American,7,-1.0,F,1,Low,1,1
@@ -1255,7 +1246,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 36,25 - 45,Male,African-American,5,17.0,F,0,Low,3,0
 50,Greater than 45,Female,African-American,1,-1.0,F,0,Low,1,0
 23,Less than 25,Male,African-American,0,0.0,M,1,Low,3,1
-28,25 - 45,Male,Native American,2,-1.0,F,0,Low,3,0
 25,25 - 45,Female,Caucasian,5,-3.0,F,0,Medium,7,0
 54,Greater than 45,Male,Caucasian,14,-1.0,M,1,Low,4,1
 37,25 - 45,Male,Other,6,-1.0,M,0,Low,1,0
@@ -1292,7 +1282,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 22,Less than 25,Male,Hispanic,0,0.0,M,1,Low,3,1
 32,25 - 45,Male,African-American,12,-1.0,F,1,High,8,0
 47,Greater than 45,Male,African-American,14,-1.0,F,1,High,9,1
-24,Less than 25,Male,Asian,0,0.0,M,0,Low,2,0
 25,25 - 45,Male,African-American,14,-1.0,F,1,High,10,1
 56,Greater than 45,Male,Caucasian,0,0.0,F,0,Low,1,0
 36,25 - 45,Male,Hispanic,1,30.0,F,1,Low,4,1
@@ -1353,7 +1342,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 54,Greater than 45,Male,African-American,8,0.0,F,1,Low,1,1
 20,Less than 25,Female,Caucasian,0,0.0,F,0,Low,4,0
 29,25 - 45,Male,African-American,0,-1.0,F,0,Low,1,0
-67,Greater than 45,Male,Asian,0,-1.0,M,0,Low,1,0
 25,25 - 45,Male,Other,0,-1.0,F,0,Low,2,0
 24,Less than 25,Male,African-American,8,-1.0,F,1,High,9,1
 29,25 - 45,Male,Other,3,-1.0,F,0,Medium,6,0
@@ -1528,7 +1516,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 35,25 - 45,Male,Hispanic,12,-1.0,F,0,High,9,0
 25,25 - 45,Male,African-American,4,0.0,F,1,Medium,6,1
 69,Greater than 45,Male,Caucasian,6,-1.0,F,1,Low,2,1
-24,Less than 25,Male,Asian,0,-1.0,M,0,Low,3,0
 28,25 - 45,Male,Hispanic,0,-1.0,F,0,Low,4,0
 47,Greater than 45,Male,African-American,23,-1.0,F,1,Medium,7,1
 29,25 - 45,Male,African-American,13,0.0,F,1,High,10,1
@@ -1583,7 +1570,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 22,Less than 25,Female,African-American,0,0.0,M,1,Medium,7,1
 25,25 - 45,Male,Hispanic,1,-1.0,F,0,Low,3,0
 56,Greater than 45,Male,African-American,4,-1.0,F,0,Low,1,0
-51,Greater than 45,Male,Asian,1,-1.0,F,1,Low,1,1
 58,Greater than 45,Female,African-American,3,-18.0,M,0,Low,1,0
 24,Less than 25,Male,Caucasian,3,0.0,M,0,Medium,5,0
 22,Less than 25,Male,African-American,0,-1.0,F,1,Low,3,1
@@ -1664,7 +1650,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 28,25 - 45,Male,Hispanic,3,-1.0,M,0,Medium,5,0
 31,25 - 45,Male,African-American,4,-1.0,M,1,Low,3,1
 59,Greater than 45,Male,Caucasian,3,0.0,M,1,Low,1,1
-37,25 - 45,Male,Native American,0,-1.0,F,0,Low,2,0
 50,Greater than 45,Male,African-American,0,-1.0,F,0,Low,1,0
 57,Greater than 45,Male,African-American,8,-1.0,F,1,Medium,5,1
 31,25 - 45,Male,African-American,5,-1.0,M,1,Medium,5,0
@@ -1736,7 +1721,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 21,Less than 25,Male,Caucasian,0,-1.0,M,1,Low,4,1
 35,25 - 45,Male,African-American,0,-1.0,F,1,High,8,0
 34,25 - 45,Male,Hispanic,2,-1.0,F,1,Low,3,1
-41,25 - 45,Male,Asian,2,-1.0,F,1,High,8,1
 23,Less than 25,Male,African-American,1,-1.0,F,1,High,10,1
 23,Less than 25,Male,African-American,3,-1.0,F,1,Medium,6,1
 28,25 - 45,Male,African-American,2,0.0,M,1,Low,4,0
@@ -1811,7 +1795,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 70,Greater than 45,Male,Caucasian,11,-13.0,F,1,Low,1,1
 52,Greater than 45,Male,Caucasian,2,-1.0,F,0,Low,1,0
 51,Greater than 45,Male,African-American,4,-26.0,M,1,Low,2,0
-45,Greater than 45,Female,Native American,15,-1.0,F,1,High,10,1
 55,Greater than 45,Male,African-American,21,0.0,F,1,Medium,6,1
 49,Greater than 45,Female,Caucasian,1,-1.0,F,0,Low,1,0
 47,Greater than 45,Female,Caucasian,0,0.0,F,0,Low,1,0
@@ -2190,7 +2173,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 45,Greater than 45,Male,Hispanic,8,-1.0,F,0,Medium,6,0
 22,Less than 25,Male,African-American,0,0.0,F,1,Low,3,0
 41,25 - 45,Male,African-American,8,0.0,F,1,Low,1,1
-46,Greater than 45,Male,Asian,3,-1.0,F,1,Medium,5,1
 27,25 - 45,Male,Other,0,-1.0,M,0,Medium,5,0
 37,25 - 45,Female,African-American,13,-1.0,F,1,Medium,6,0
 22,Less than 25,Male,African-American,0,-1.0,F,1,Low,3,1
@@ -2562,7 +2544,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 37,25 - 45,Male,Hispanic,3,-1.0,M,1,Low,2,1
 25,25 - 45,Male,Caucasian,9,0.0,F,0,High,9,0
 21,Less than 25,Male,African-American,0,-1.0,M,1,High,10,1
-38,25 - 45,Male,Asian,0,-1.0,M,0,Low,1,0
 29,25 - 45,Male,African-American,5,-1.0,F,1,Medium,7,1
 52,Greater than 45,Male,African-American,0,0.0,M,1,Low,1,1
 29,25 - 45,Male,African-American,5,-1.0,F,1,High,10,0
@@ -3217,7 +3198,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 49,Greater than 45,Male,Caucasian,0,-3.0,M,0,Low,1,0
 29,25 - 45,Male,African-American,2,-1.0,F,0,Low,3,0
 23,Less than 25,Male,African-American,2,-1.0,F,1,Medium,6,1
-30,25 - 45,Male,Asian,6,-1.0,M,1,Low,3,0
 30,25 - 45,Male,Caucasian,0,0.0,M,0,Low,4,0
 34,25 - 45,Male,African-American,13,-1.0,F,1,Low,4,1
 33,25 - 45,Male,African-American,4,0.0,F,0,Medium,6,0
@@ -3376,7 +3356,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 48,Greater than 45,Male,African-American,10,0.0,F,0,Low,4,0
 23,Less than 25,Male,African-American,0,-1.0,M,0,High,8,0
 23,Less than 25,Male,Caucasian,2,-1.0,F,1,Medium,7,1
-47,Greater than 45,Male,Asian,1,0.0,M,0,Low,1,0
 21,Less than 25,Male,Other,0,-1.0,F,0,Low,4,0
 29,25 - 45,Male,African-American,0,-1.0,M,1,High,9,1
 48,Greater than 45,Male,Caucasian,2,-1.0,F,0,Low,1,0
@@ -3488,7 +3467,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 38,25 - 45,Male,Caucasian,5,-18.0,M,1,Medium,5,1
 45,Greater than 45,Female,Other,0,-1.0,M,0,Low,1,0
 49,Greater than 45,Male,African-American,1,-1.0,F,0,Medium,5,0
-33,25 - 45,Male,Asian,0,-1.0,M,0,Low,1,0
 44,25 - 45,Male,Hispanic,2,-1.0,F,0,Low,2,0
 51,Greater than 45,Male,African-American,3,-1.0,F,0,Low,1,0
 50,Greater than 45,Male,African-American,0,0.0,F,0,Low,1,0
@@ -3634,7 +3612,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 22,Less than 25,Male,African-American,0,-1.0,F,1,Medium,5,1
 43,25 - 45,Female,Caucasian,0,0.0,M,1,Low,1,1
 30,25 - 45,Male,Caucasian,1,-1.0,M,0,Low,2,0
-29,25 - 45,Male,Asian,0,-1.0,F,0,Low,1,0
 24,Less than 25,Male,Caucasian,0,-1.0,F,0,Low,2,0
 29,25 - 45,Male,African-American,7,-1.0,M,1,High,8,1
 24,Less than 25,Female,Caucasian,0,-2.0,F,0,Low,4,0
@@ -3910,7 +3887,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 25,25 - 45,Male,African-American,5,-1.0,F,1,Medium,5,1
 23,Less than 25,Male,African-American,4,0.0,F,1,High,9,1
 26,25 - 45,Male,Caucasian,0,-1.0,M,0,Low,4,0
-45,Greater than 45,Female,Asian,6,-1.0,F,1,Low,3,1
 28,25 - 45,Male,Caucasian,1,0.0,M,0,Low,2,0
 28,25 - 45,Female,African-American,13,-1.0,F,1,High,9,1
 39,25 - 45,Male,Caucasian,0,-3.0,F,1,Low,1,1
@@ -3950,7 +3926,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 22,Less than 25,Male,African-American,0,0.0,F,1,Medium,5,1
 26,25 - 45,Male,African-American,0,-1.0,F,0,Low,3,0
 25,25 - 45,Male,African-American,1,0.0,F,0,Medium,5,0
-40,25 - 45,Male,Native American,2,-1.0,M,0,Medium,6,0
 28,25 - 45,Male,African-American,0,-1.0,M,1,Low,2,1
 56,Greater than 45,Male,African-American,1,-1.0,F,0,Low,1,0
 36,25 - 45,Male,African-American,0,-1.0,F,0,Low,4,0
@@ -3984,7 +3959,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 55,Greater than 45,Male,Caucasian,0,-1.0,F,1,Low,1,0
 23,Less than 25,Male,African-American,3,0.0,M,0,Medium,5,0
 54,Greater than 45,Male,Caucasian,2,-29.0,F,1,Low,4,1
-40,25 - 45,Male,Asian,0,-1.0,F,0,Low,1,0
 27,25 - 45,Male,African-American,0,-1.0,M,1,Low,2,1
 29,25 - 45,Female,African-American,5,0.0,F,1,Medium,7,0
 45,Greater than 45,Female,Caucasian,0,-1.0,M,0,Low,1,0
@@ -4125,7 +4099,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 40,25 - 45,Male,Hispanic,0,0.0,F,0,Medium,5,0
 49,Greater than 45,Female,Caucasian,4,-1.0,M,0,Low,2,0
 35,25 - 45,Female,Caucasian,2,-3.0,M,0,Low,3,0
-21,Less than 25,Male,Native American,0,-1.0,M,1,Medium,6,1
 25,25 - 45,Male,Other,0,-1.0,F,0,Low,4,0
 21,Less than 25,Male,Caucasian,1,-1.0,F,0,Low,4,0
 24,Less than 25,Female,African-American,11,-1.0,M,1,High,9,1
@@ -4141,7 +4114,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 56,Greater than 45,Male,Caucasian,1,-2.0,F,1,Low,1,1
 23,Less than 25,Male,African-American,2,-1.0,F,1,Medium,7,1
 43,25 - 45,Male,Caucasian,12,-1.0,F,0,Medium,6,0
-32,25 - 45,Male,Asian,0,-1.0,M,0,Low,1,0
 21,Less than 25,Male,African-American,0,-1.0,F,1,High,9,1
 51,Greater than 45,Male,African-American,2,-1.0,F,0,Low,3,0
 20,Less than 25,Male,African-American,0,-1.0,M,1,High,10,1
@@ -4588,7 +4560,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 40,25 - 45,Male,Caucasian,0,-1.0,M,0,Low,1,0
 30,25 - 45,Male,Caucasian,0,-7.0,F,0,Low,3,0
 20,Less than 25,Female,African-American,0,-1.0,F,0,Medium,5,0
-48,Greater than 45,Male,Asian,0,-1.0,F,0,Low,2,0
 24,Less than 25,Male,African-American,0,-1.0,M,1,Medium,5,1
 30,25 - 45,Male,African-American,5,-1.0,M,0,Low,3,0
 20,Less than 25,Female,African-American,0,0.0,M,1,Low,4,1
@@ -4615,11 +4586,9 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 45,Greater than 45,Male,African-American,16,-1.0,F,0,Medium,7,0
 41,25 - 45,Male,Caucasian,0,-1.0,F,1,Low,2,1
 31,25 - 45,Male,Caucasian,3,-1.0,M,1,Low,2,1
-28,25 - 45,Male,Asian,9,-1.0,F,1,High,8,0
 39,25 - 45,Male,Caucasian,1,-1.0,F,0,Low,1,0
 33,25 - 45,Male,Caucasian,0,-1.0,F,0,Low,1,0
 21,Less than 25,Female,African-American,1,-1.0,F,1,Medium,6,1
-48,Greater than 45,Male,Asian,0,0.0,M,0,Low,1,0
 27,25 - 45,Male,African-American,3,-1.0,M,0,Low,3,0
 24,Less than 25,Male,Hispanic,0,-1.0,F,0,Medium,5,0
 24,Less than 25,Female,Caucasian,0,0.0,M,0,Low,3,0
@@ -4643,7 +4612,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 29,25 - 45,Female,Caucasian,7,-1.0,F,1,Medium,6,1
 38,25 - 45,Female,Other,0,-1.0,F,0,Low,1,0
 29,25 - 45,Male,African-American,0,-1.0,M,0,Low,3,0
-34,25 - 45,Female,Asian,1,-10.0,F,0,Low,1,0
 29,25 - 45,Male,African-American,11,-1.0,F,1,Low,3,1
 34,25 - 45,Male,African-American,8,-1.0,M,1,Medium,7,0
 26,25 - 45,Male,African-American,6,-1.0,F,1,Medium,7,1
@@ -4708,7 +4676,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 47,Greater than 45,Male,Caucasian,5,-1.0,M,0,Low,2,0
 66,Greater than 45,Male,Caucasian,2,-1.0,M,0,Low,3,0
 51,Greater than 45,Male,African-American,21,-1.0,F,1,High,8,1
-76,Greater than 45,Male,Asian,0,-2.0,F,0,Low,1,0
 28,25 - 45,Female,Caucasian,3,0.0,F,1,Medium,6,1
 35,25 - 45,Male,African-American,1,0.0,M,0,Low,4,0
 44,25 - 45,Male,Other,6,-1.0,F,1,Low,1,1
@@ -4877,7 +4844,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 35,25 - 45,Male,African-American,0,-2.0,F,0,Low,3,0
 27,25 - 45,Male,African-American,2,-1.0,F,0,Low,3,0
 33,25 - 45,Male,African-American,12,-1.0,F,1,High,9,1
-36,25 - 45,Male,Asian,1,-1.0,F,0,Low,1,0
 30,25 - 45,Male,Caucasian,2,-22.0,F,0,Low,2,0
 30,25 - 45,Male,African-American,0,0.0,F,0,Low,4,0
 41,25 - 45,Male,African-American,19,0.0,F,1,High,8,0
@@ -4927,7 +4893,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 27,25 - 45,Male,African-American,2,-1.0,F,0,Medium,6,0
 26,25 - 45,Male,African-American,8,-1.0,M,1,Low,4,1
 21,Less than 25,Male,African-American,1,-22.0,F,0,Low,3,0
-34,25 - 45,Male,Asian,0,-1.0,M,0,Low,2,0
 46,Greater than 45,Male,Hispanic,1,-2.0,M,0,Low,1,0
 40,25 - 45,Male,African-American,23,30.0,M,1,Medium,6,1
 38,25 - 45,Male,Caucasian,3,0.0,M,0,Low,3,0
@@ -4940,7 +4905,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 30,25 - 45,Male,African-American,1,-1.0,M,0,Low,2,0
 33,25 - 45,Female,Caucasian,3,-2.0,F,1,Medium,6,1
 24,Less than 25,Male,Caucasian,2,0.0,M,0,Low,2,0
-52,Greater than 45,Male,Asian,0,-1.0,F,0,Low,1,0
 29,25 - 45,Female,Caucasian,0,-1.0,M,0,Medium,6,0
 42,25 - 45,Female,Caucasian,0,-1.0,F,1,Low,2,1
 30,25 - 45,Female,Caucasian,1,0.0,F,0,Low,2,0
@@ -5032,7 +4996,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 46,Greater than 45,Male,Caucasian,0,-1.0,M,0,Low,1,0
 33,25 - 45,Male,Other,7,-1.0,F,1,High,8,1
 36,25 - 45,Male,African-American,2,-1.0,F,1,Low,4,1
-20,Less than 25,Male,Native American,1,-5.0,F,1,High,9,1
 32,25 - 45,Male,Caucasian,0,-1.0,M,0,Low,3,0
 38,25 - 45,Male,African-American,17,-1.0,M,1,Low,4,1
 64,Greater than 45,Male,Hispanic,1,-2.0,M,0,Low,1,0
@@ -5259,7 +5222,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 36,25 - 45,Male,African-American,6,-1.0,M,0,Low,4,0
 34,25 - 45,Male,African-American,9,-1.0,F,1,Medium,7,1
 50,Greater than 45,Male,African-American,15,-1.0,M,0,High,8,0
-47,Greater than 45,Male,Native American,22,0.0,F,1,High,10,1
 49,Greater than 45,Female,Other,0,-1.0,M,0,Low,1,0
 31,25 - 45,Male,African-American,1,-1.0,M,0,Low,4,0
 49,Greater than 45,Male,African-American,10,-1.0,F,1,Low,3,1
@@ -5869,7 +5831,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 23,Less than 25,Male,African-American,3,-1.0,M,1,Medium,7,1
 71,Greater than 45,Male,Caucasian,3,-1.0,M,0,Low,1,0
 45,Greater than 45,Male,Caucasian,2,0.0,M,0,Low,1,0
-33,25 - 45,Female,Native American,5,-1.0,F,1,Medium,7,1
 29,25 - 45,Male,African-American,0,0.0,M,0,Low,1,0
 36,25 - 45,Male,Hispanic,5,-2.0,F,0,Low,2,0
 52,Greater than 45,Male,African-American,17,0.0,F,1,Medium,7,1
@@ -6047,7 +6008,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 39,25 - 45,Male,Caucasian,0,-1.0,F,0,Low,2,0
 49,Greater than 45,Female,Caucasian,2,-1.0,M,0,Low,3,0
 45,Greater than 45,Female,African-American,9,0.0,M,1,Medium,7,0
-22,Less than 25,Male,Asian,1,0.0,M,0,Low,2,0
 46,Greater than 45,Female,Caucasian,7,-1.0,F,1,Medium,7,1
 29,25 - 45,Male,African-American,15,-1.0,F,1,Medium,6,1
 28,25 - 45,Male,African-American,2,-1.0,M,1,Medium,5,1
@@ -6061,7 +6021,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 54,Greater than 45,Male,African-American,10,0.0,F,1,Low,4,1
 51,Greater than 45,Male,Other,0,-1.0,F,1,Low,1,1
 36,25 - 45,Female,Caucasian,5,-1.0,F,1,Low,3,1
-20,Less than 25,Male,Asian,2,-1.0,F,1,High,10,1
 30,25 - 45,Male,African-American,8,-1.0,F,1,Medium,5,1
 44,25 - 45,Male,Hispanic,0,-1.0,M,1,Low,1,1
 23,Less than 25,Female,African-American,1,-1.0,F,1,Low,4,1
@@ -6090,7 +6049,6 @@ age,age_cat,sex,race,priors_count,days_b_screening_arrest,c_charge_degree,is_rec
 43,25 - 45,Female,Caucasian,0,-2.0,M,0,Low,1,0
 28,25 - 45,Female,African-American,6,-1.0,M,1,Medium,5,1
 24,Less than 25,Female,African-American,0,-3.0,F,0,Low,4,0
-26,25 - 45,Male,Asian,2,-1.0,F,1,Low,3,1
 56,Greater than 45,Male,African-American,0,-1.0,M,0,Low,2,0
 47,Greater than 45,Male,Hispanic,3,-1.0,M,1,Medium,6,1
 49,Greater than 45,Male,Caucasian,0,-1.0,F,0,Low,1,0
